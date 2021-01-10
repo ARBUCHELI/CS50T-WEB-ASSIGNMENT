@@ -1,2 +1,4 @@
 # CS50T-WEB-ASSIGNMENT
-HTML and CSS Assignment for CS50T
+
+Assignment for CS50T. Website project built with Html
+and CSS
